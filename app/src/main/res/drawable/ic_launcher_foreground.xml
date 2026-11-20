@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo de Gotera (diseño propio): una gota con el nervio de una hoja de café y una lesión perforada,
+     como las que deja el ojo de gallo (gotera) cuando la mancha se desprende. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#F3EEDC"
+        android:pathData="M54,21C54,21 33,45 33,63A21,21 0,0 0,75 63C75,45 54,21 54,21Z" />
+    <path android:strokeColor="#24452F" android:strokeWidth="2.4" android:strokeLineCap="round"
+        android:pathData="M51,37C53.5,50 55.5,64 52,81M52.6,56L44,62.5M53.2,67.5L45,73" />
+    <path android:fillColor="#B5462F"
+        android:pathData="M64,55.6a6.4,6.4 0,1 1,0 12.8a6.4,6.4 0,1 1,0 -12.8Z" />
+    <path android:fillColor="#24452F"
+        android:pathData="M64,58.4a3.6,3.6 0,1 1,0 7.2a3.6,3.6 0,1 1,0 -7.2Z" />
+</vector>
